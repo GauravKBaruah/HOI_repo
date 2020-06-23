@@ -3,12 +3,12 @@
 
 **Authors**: Pragya Singh and Gaurav Baruah
 **Affiliations**: University of Basel, University of Zurich/Eawag Switzerland
-
+**Emails**: gbaruahecoevo@gmail.com , pragya.singh@unibas.ch
 The repository has 8 different R codes.
 
 1. `01_HOI_dynamics_code.R` main source code for Lotka-Volterra HOI and pairwise dynamics.
 
-2. `02_Negative_3wayHOI.R` and '03_Positive_3wayHOI.R` are codes that calculate the invasion growth rates in pairwise competition and in presence of HOI and reproduces *figure 1* and *figure 2*.
+2. `02_Negative_3wayHOI.R` and `03_Positive_3wayHOI.R` are codes that calculate the invasion growth rates in pairwise competition and in presence of HOI and reproduces *figure 1* and *figure 2*.
 
 3. `04_Weyls_negativeHOI.R` and `05_Weyls_positiveHOI.R` are codes that look at the example cases discussed in the methods that either satisfy Weyl's inequality or it does not. 
 
