@@ -7,7 +7,7 @@ rm(list=ls())
 
 
 #sourcing the source function for the dynamical HOI model
-source('~/Dropbox/HOI_short_paper/HOIcoexistence/JTB or theoretical ecologt/Codes/multispecies_negative_hoi.R', echo=F)
+source('~./multispecies_negative_hoi.R', echo=F)
 library(gdata)
 library(grid)
 library(gridExtra)

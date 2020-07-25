@@ -1,5 +1,5 @@
 rm(list=ls())
-source('~/Dropbox/HOI_short_paper/HOIcoexistence/JTB or theoretical ecologt/Codes/multispecies_negative_hoi.R')
+source('~/Codes/multispecies_negative_hoi.R')
 library(RColorBrewer)
 library(gdata)
 qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
